@@ -120,7 +120,7 @@ The choosing analysis form appears.
 **CMOS INVERTER:**
 
 **CMOS INVERTER SCHEMATIC:**
-![330388633-a490dfb2-234a-4d31-a932-e07d29eb8bb2](https://github.com/Aravind00033/VLSI-LAB-EXP-6/assets/160571380/5e0539ef-ab33-4853-ad0e-843846b82347)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-6/assets/159053561/9f91dfd4-9646-46df-abb2-51d90cc53a00)
 
 
 
@@ -140,7 +140,8 @@ Start = -1 Stop = 1 resp.
 
 **CMOS INVERTER TEST CELL VIEW:**
 
-![330387481-4efd0030-64ad-4cbb-8723-3a89a9b53117](https://github.com/Aravind00033/VLSI-LAB-EXP-6/assets/160571380/bb816dc3-4b35-46a4-948a-0ff48b672071)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-6/assets/159053561/5e7783db-e511-4231-af00-518f1a36dd40)
+
 
 
 
@@ -148,31 +149,33 @@ Start = -1 Stop = 1 resp.
 
 **TRANSIENT RESPONSE:**
 
-![330387548-99f63f38-f5d2-4b16-a103-c38b3ad8d027](https://github.com/Aravind00033/VLSI-LAB-EXP-6/assets/160571380/5d8d5aed-f6cb-4e43-a7b8-014df8550f23)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-6/assets/159053561/6f2725f8-e50f-4299-b3c4-4a9a8be95af9)
 
 
 
 **DC RESPONSE:**
 
-![330387581-941a021f-244a-460d-900d-e882e8f14671](https://github.com/Aravind00033/VLSI-LAB-EXP-6/assets/160571380/090eff50-c61a-4ef5-97cc-c48b46531992)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-6/assets/159053561/956a2f05-c93e-4da3-9004-1d37af1955bc)
 
 
 **CMOS NAND GATE:**
 
 **NAND SCHEMATIC:**
 
-![330387674-ca872dcb-05be-40ec-b566-7eaa804a5c96](https://github.com/Aravind00033/VLSI-LAB-EXP-6/assets/160571380/acc5d6d7-d73a-4eb3-9188-334c1dd0d99b)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-6/assets/159053561/01acf802-ef76-4c57-9e6b-332e3ef3afc7)
+
 
 
 **NAND TEST CELL VIEW:**
 
-![330387730-b2b5b7e8-40d1-419b-9c96-477b105fc9f6](https://github.com/Aravind00033/VLSI-LAB-EXP-6/assets/160571380/e2cc24d6-82bd-47e4-9804-3de3d8ad3fa8)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-6/assets/159053561/aeecdaf5-7d8b-4adc-9b85-162d2bdea2eb)
 
 
 
 **NAND SIMULATION WITH SPECTRA:**
 
-![330387771-0a8f3246-1a76-4f3a-9667-4b5df40df977](https://github.com/Aravind00033/VLSI-LAB-EXP-6/assets/160571380/b0d743d5-4d14-430f-b210-81d201d83527)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-6/assets/159053561/e7652348-ee8e-40f8-8e56-19882e40c108)
+
 
 
 
@@ -180,19 +183,21 @@ Start = -1 Stop = 1 resp.
 
 **NOR SCHEMATIC:**
 
-![330387840-5cad3e7e-6513-4444-a8e3-5cfbb8dd4f56](https://github.com/Aravind00033/VLSI-LAB-EXP-6/assets/160571380/11ba821a-8581-4b50-9e01-85404cc7504e)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-6/assets/159053561/6487b3a8-0c44-4231-861e-65ae2ea7ccb7)
+
 
 
 
 **NOR TEST CELL VIEW:**
 
-![330387869-1e716a28-49f4-4ad0-a8bc-713b82779e7b](https://github.com/Aravind00033/VLSI-LAB-EXP-6/assets/160571380/f803eadd-c64d-474a-b7cb-998b51f86f37)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-6/assets/159053561/cbea4aa3-ee0b-435c-9f5d-ebedf854a620)
+
 
 
 
 **NOR SIMULATION WITH SPECTRA:**
 
-![330387901-c5b18e7f-cf0d-46f8-8c69-5d915788deb9](https://github.com/Aravind00033/VLSI-LAB-EXP-6/assets/160571380/1d57ea1e-b18b-44ab-9c5f-ca4d96b6c0a7)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-6/assets/159053561/99a310aa-0020-447d-837e-91eee6b20140)
 
 
 
